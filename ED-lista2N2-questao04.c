@@ -1,9 +1,9 @@
 /*
-** Função : Classifica os elementos de um vetor em ordem crescente
-usando o algoritmo conhecido como “classificação por seleção”
-** Autor : Joel Adelaide Medeiros - P3 CC Unipê - RGM 29799384
+** Funï¿½ï¿½o : Classifica os elementos de um vetor em ordem crescente
+usando o algoritmo conhecido como ï¿½classificaï¿½ï¿½o por seleï¿½ï¿½oï¿½
+** Autor : Joel Adelaide Medeiros - P3 CC Unipï¿½ - RGM 29799384
 ** Data : 16/06/2023
-** Observações:
+** Observaï¿½ï¿½es:
 */
 
 #include <stdio.h>
@@ -21,7 +21,7 @@ int main() {
 	int tamanhoVetor;
 	int *vetor;
 	
-	printf("Método de Classificação por seleção na linguagem C\n\n");
+	printf("Mï¿½todo de Classificaï¿½ï¿½o por seleï¿½ï¿½o na linguagem C\n\n");
 	printf("Digite o tamanho do vetor:");
 	scanf("%d", &tamanhoVetor);
 	
@@ -32,7 +32,7 @@ int main() {
 	}
 	
 	preenchimento_aleatorio_vetor(vetor, tamanhoVetor);
-	printf("\nVETOR ALEATÓRIO: \n");
+	printf("\nVETOR ALEATï¿½RIO: \n");
 	printar_vetor(vetor, tamanhoVetor);
 	ordenacao_por_selecao(vetor, tamanhoVetor);
 	printf("VETOR ORDENADO: \n");
