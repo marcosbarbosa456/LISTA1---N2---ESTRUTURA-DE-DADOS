@@ -1,3 +1,8 @@
+# Fun��o : criação de uma lista encadeada para a formação de uma bilbioteca que contenha funções de uso
+# Autor : Marcos Barbosa Vieira Filho - P3 CC Unip� - RGM 30174503
+# Data : 19/06/2023
+# Observa��es:
+
 class Livro:
     def __init__(self, autor, titulo, editora, ano):
         self.autor = autor

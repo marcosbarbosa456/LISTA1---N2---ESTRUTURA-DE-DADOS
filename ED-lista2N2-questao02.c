@@ -1,8 +1,8 @@
 /*
-** Função : Criar um programa para Implementar uma pilha de números reais
-** Autor : Joel Adelaide Medeiros - P3 CC Unipê - RGM 29799384
+** Funï¿½ï¿½o : Criar um programa para Implementar uma pilha de nï¿½meros reais
+** Autor : Joel Adelaide Medeiros - P3 CC Unipï¿½ - RGM 29799384
 ** Data : 16/06/2023
-** Observações:
+** Observaï¿½ï¿½es:
 */
 
 #include <stdio.h>
@@ -13,9 +13,9 @@
 #define MAX 50  //numero de max de elementos na pilha
 
 typedef struct pilha{
-	int n;                // vet[n] = primeira posição livre do vetor
+	int n;                // vet[n] = primeira posiï¿½ï¿½o livre do vetor
 	float vet[MAX];       // vet[n-1] = topo da pilha
-} Pilha;                  // vet[0] a vet[MAX-1] = posições ocupáveis
+} Pilha;                  // vet[0] a vet[MAX-1] = posiï¿½ï¿½es ocupï¿½veis
 
 Pilha* pilha_cria(void);
 void pilha_push(Pilha* p, float v);
@@ -84,13 +84,13 @@ int main() {
     {
     	system("cls || clear");
     	
-        printf("\n-*-*-*-*-PILHA DE NÚMEROS REAIS-*-*-*-*\n\n");
+        printf("\n-*-*-*-*-PILHA DE Nï¿½MEROS REAIS-*-*-*-*\n\n");
         printf("[1] - INSERIR (Push)\n");
         printf("[2] - RETIRAR (Pop)\n");
         printf("[3] - IMPRIMIR PILHA\n");
         printf("[0] - SAIR (Free)\n");
 
-		printf("Opção Desejada: ");
+		printf("Opï¿½ï¿½o Desejada: ");
         scanf("%d", &op);
         printf("\n\n");
         
@@ -118,7 +118,7 @@ int main() {
                 break;
 
             default:
-                printf("Digite uma Opção Válida!\n");
+                printf("Digite uma Opï¿½ï¿½o Vï¿½lida!\n");
         }
     } while(1);
 	

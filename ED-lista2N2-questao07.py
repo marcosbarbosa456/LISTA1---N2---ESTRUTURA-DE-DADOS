@@ -1,3 +1,8 @@
+# Fun��o : criação de um sistema que ultilize structs e parametros que simule o que seria um sistema de gerenciamento de atendimento para uma clinica medica
+# Autor : Marcos Barbosa Vieira Filho - P3 CC Unip� - RGM 30174503
+# Data : 19/06/2023
+# Observa��es:
+
 from collections import deque
 
 class Atendimento:

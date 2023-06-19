@@ -1,3 +1,10 @@
+/*
+** Fun��o : criação de um programa em c que use funções para manejar uma lista de compras 
+** Autor : Marcos Barbosa Vieira Filho - P3 CC Unip� - RGM 30174503
+** Data : 19/06/2023
+** Observa��es:
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

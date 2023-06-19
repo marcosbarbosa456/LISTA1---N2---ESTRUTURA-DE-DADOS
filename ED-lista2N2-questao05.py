@@ -1,3 +1,8 @@
+# Fun��o : criação de um programa que gerencia uma pilha de processos, com identificadores e descrições
+# Autor : Marcos Barbosa Vieira Filho - P3 CC Unip� - RGM 30174503
+# Data : 19/06/2023
+# Observa��es:
+
 class Processo:
     def __init__(self, identificador, descricao):
         self.identificador = identificador
