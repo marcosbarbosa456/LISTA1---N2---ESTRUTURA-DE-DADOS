@@ -1,7 +1,9 @@
-# Fun��o : criação de um sistema que ultilize structs e parametros que simule o que seria um sistema de gerenciamento de atendimento para uma clinica medica
-# Autor : Marcos Barbosa Vieira Filho - P3 CC Unip� - RGM 30174503
+
+# Função : Criação de um sistema que ultilize structs e parametros que simule o que seria um sistema de gerenciamento de atendimento para uma clinica medica
+# Autor : Joel Adelaide Medeiros - P3 CC Unip� - RGM 29799384
+# 		  Marcos Barbosa Vieira Filho - P3 CC Unip� - RGM 30174503
 # Data : 19/06/2023
-# Observa��es:
+# Observações:
 
 from collections import deque
 

@@ -1,8 +1,10 @@
+
 /*
-** Fun��o : Criar um programa para Implementar uma pilha de n�meros reais
+** Função : Criar um programa para Implementar uma pilha de números reais
 ** Autor : Joel Adelaide Medeiros - P3 CC Unip� - RGM 29799384
-** Data : 16/06/2023
-** Observa��es:
+** 		  Marcos Barbosa Vieira Filho - P3 CC Unip� - RGM 30174503
+** Data : 19/06/2023
+** Observações:
 */
 
 #include <stdio.h>

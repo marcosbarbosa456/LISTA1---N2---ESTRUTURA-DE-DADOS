@@ -1,9 +1,13 @@
+
 /*
-** Fun��o : criação de uma estrutura para guardar informações de um sujeito e fazer o seu calculo de imc
-** Autor : Marcos Barbosa Vieira Filho - P3 CC Unip� - RGM 30174503
+** Função : Programa em C que defina estrutura chamada perfil_saude
+** Autor : Joel Adelaide Medeiros - P3 CC Unip� - RGM 29799384
+** 		  Marcos Barbosa Vieira Filho - P3 CC Unip� - RGM 30174503
 ** Data : 19/06/2023
-** Observa��es:
+** Observações:
 */
+
+
 
 #include <stdio.h>
 #include <stdlib.h>

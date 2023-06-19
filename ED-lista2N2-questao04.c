@@ -1,9 +1,10 @@
+
 /*
-** Fun��o : Classifica os elementos de um vetor em ordem crescente
-usando o algoritmo conhecido como �classifica��o por sele��o�
+** Função : Classifica os elementos de um vetor em ordem crescente
 ** Autor : Joel Adelaide Medeiros - P3 CC Unip� - RGM 29799384
-** Data : 16/06/2023
-** Observa��es:
+** 		  Marcos Barbosa Vieira Filho - P3 CC Unip� - RGM 30174503
+** Data : 19/06/2023
+** Observações:
 */
 
 #include <stdio.h>

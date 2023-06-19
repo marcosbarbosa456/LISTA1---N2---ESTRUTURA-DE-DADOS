@@ -1,7 +1,11 @@
-# Fun��o : criação de uma lista encadeada para a formação de uma bilbioteca que contenha funções de uso
-# Autor : Marcos Barbosa Vieira Filho - P3 CC Unip� - RGM 30174503
+
+#Função : Criar uma base de dados usando a técnica de lista encadeada para gerir os livros de uma
+#biblioteca. A informação de cada livro é: autor, título, editora, ano de edição
+#Autor : Joel Adelaide Medeiros - P3 CC Unip� - RGM 29799384
+#		 Marcos Barbosa Vieira Filho - P3 CC Unip� - RGM 30174503
 # Data : 19/06/2023
 # Observa��es:
+
 
 class Livro:
     def __init__(self, autor, titulo, editora, ano):
